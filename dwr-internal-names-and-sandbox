@@ -1,0 +1,71 @@
+Here you will learn internal item/enemy names and commands. Note that they are case sensitive.
+
+
+
+Item names:
+
+crude - Crude Knife
+
+sword - Sword
+
+pulverizer - Pulverizer
+
+sniper - SLEG 2L
+
+rifle - ARX MK.1
+
+burst - MLO MK.2
+
+bkit - Breacher Kit
+
+pack - Backpack
+
+medkit - Medkit
+
+
+
+Enemy names:
+
+fist - Guy with fists
+
+rifle - Guy with a gun.
+
+crude - Crude knife wielding dude
+
+
+
+Map names:
+
+Menu
+
+Survival
+
+Holdout
+
+
+
+Commands:
+
+CC - Show various info about enemies.
+
+GM - Godmode Toggle... You know what this is, right?
+
+S - Spawn an enemy.
+
+KA - Make enemies 0 irl.
+
+W - Set wave
+
+ST - Set Storm Timer.
+
+O - Objectives. Not used yet.
+
+GI - Give item.
+
+SH - Set health.
+
+LM - Load map.
+
+AC - Set Ability Charge.
+
+SS - Set scrap.
